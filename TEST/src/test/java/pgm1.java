@@ -29,6 +29,7 @@ public class pgm1
     	
     	System.out.println("Continue to test...");
     	
+    	Assert.assertEquals(title,"Sign in to GitHub. GitHub");
     	
     	
     	
